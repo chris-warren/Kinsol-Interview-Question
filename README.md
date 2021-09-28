@@ -11,7 +11,8 @@ If this code was being used in a larger system, I probably would have created a 
 but that didnt seem necessary for this task
 
 Pylint was used to ensure PEP-8 formatting
-	- This was my first time using a PEP-8 plugin, it raised falgs for my single letter
+
+	This was my first time using a PEP-8 plugin, it raised flags for my single letter
 		variable names, but I assumed that was fine
 
 Pytest was used for testing
