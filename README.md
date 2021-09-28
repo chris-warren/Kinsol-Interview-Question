@@ -17,6 +17,8 @@ Pylint was used to ensure PEP-8 formatting
 Pytest was used for testing
 
 test cases:
+
+
 	1) basic test with known int values
 	
 	2) basic test with known float values
